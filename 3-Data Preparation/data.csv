@@ -1,0 +1,6 @@
+Name,Age,City,Date,Salary
+Alice,24,New York,2023-01-01,70000
+Bob,27,Los Angeles,2023-02-15,80000
+Charlie,22,Chicago,2023-03-22,50000
+David,NaN,Houston,2023-04-05,120000
+Eve,29,Phoenix,2023-05-10,NaN
